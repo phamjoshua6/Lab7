@@ -1,3 +1,7 @@
+
+
+
+
 1. I would fit my automated tested within a Github action taht runs whenever code is pushed. That way this whole process is automated for me, and I dont need to spend time manually running test cases myself. The automated unit test will tell me what goes right and wrong.
 
 
